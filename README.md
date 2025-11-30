@@ -1,6 +1,8 @@
 **Language:** Java
+
 **Description:**
 A comprehensive e-commerce Android application with features for both users and administrators.
+
 **Key Features:**
 - **User Features:**
     - User Authentication (Login, Sign-up, Password Recovery).
